@@ -1,0 +1,12 @@
+{
+  "name": "1st-assignment",
+  "version": "1.0.0",
+  "description": "45 questions assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
